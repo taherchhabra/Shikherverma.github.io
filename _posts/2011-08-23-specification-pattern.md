@@ -1,8 +1,8 @@
 ---
-published: false
+published: true
 layout: post
 subtitle: 'First rule of engineering: only you repair your electronics!'
-date: 2011-08-23T09:37:00.000Z
+date: {}
 author: Taher Chhabra
 header-img: img/posts/screw-laptop-bg.jpg
 comments: true

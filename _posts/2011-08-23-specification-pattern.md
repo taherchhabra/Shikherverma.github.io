@@ -4,7 +4,7 @@ layout: post
 subtitle: 'First rule of engineering: only you repair your electronics!'
 date: 2011-08-23T12:23:33.000Z
 author: Taher Chhabra
-header-img: img/posts/screw-laptop-bg.jpg
+header-img: img/posts/spec.jpg
 comments: true
 tags:
   - Design Pattern

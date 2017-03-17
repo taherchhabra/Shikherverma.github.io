@@ -1,7 +1,7 @@
 ---
 published: true
 layout: post
-subtitle: 'First rule of engineering: only you repair your electronics!'
+subtitle: Specifying your business rule at one single place
 date: 2011-08-23T12:23:33.000Z
 author: Taher Chhabra
 header-img: img/posts/spec.jpg

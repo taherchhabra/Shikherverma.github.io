@@ -1,5 +1,13 @@
 ---
-published: false
+published: true
+layout: post
+subtitle: 'c# myth series'
+date: 2011-10-07T12:23:33.000Z
+author: Taher Chhabra
+header-img: img/posts/spec.jpg
+comments: true
+tags:
+  - myth
 ---
 I was Reading the book C# in Depth by Jon Skeet wherein there was a section about Myths developers have about c#. One of the myth was about where the reference types and value types are stored in memory. I used to believe that reference types are stored in Heap and Value types are stored in stack. But the truth is as Below
 

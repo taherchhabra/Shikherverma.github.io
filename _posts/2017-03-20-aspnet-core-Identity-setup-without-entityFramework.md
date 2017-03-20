@@ -2,7 +2,7 @@
 published: true
 layout: post
 subtitle: asp.net core identity without entity framework
-date: {}
+date: 2016-09-22T12:00:00.000Z
 author: Taher Chhabra
 header-img: img/posts/Simple-Blue-Background.jpg
 comments: true
